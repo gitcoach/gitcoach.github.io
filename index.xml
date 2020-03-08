@@ -20,14 +20,5 @@
       <description>Angaben gemäß § 5 TMG:  Thomas Johannesmeyer Constultant &amp;amp; Software-Entwickler Holsteiner Weg 9b 33102 Paderborn  Kontakt:  Telefon: +49 17 6 / 322 449 12 (for business inquiries use provided email please) E-Mail: gitcoach@geeky.</description>
     </item>
     
-    <item>
-      <title>How To Setup Navigator Hugo</title>
-      <link>https://gitcoach.github.io/blog/installation/</link>
-      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
-      
-      <guid>https://gitcoach.github.io/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    
   </channel>
 </rss>
