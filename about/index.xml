@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Git.Coach</title>
-    <link>https://gitcoach.github.io/about/</link>
+    <link>https://git.coach/about/</link>
     <description>Recent content in About on Git.Coach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
-	<atom:link href="https://gitcoach.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://git.coach/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
