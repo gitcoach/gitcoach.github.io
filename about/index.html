@@ -47,6 +47,8 @@
 
 <link rel="stylesheet" href="https://git.coach/css/style.min.css" integrity="" media="screen">
 
+  
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 <body id="body">
         <!-- Start Preloader -->
@@ -415,5 +417,27 @@
 <!-- Main Script -->
 
 <script src="https://git.coach/js/script.min.js"></script>
+
+  
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#707d8f",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#fe2a77",
+      "border": "#fe2a77"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "This website uses cookies to ensure you get the best experience on our website."
+  }
+});
+</script>
 </body>
 </html>
