@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://git.coach/</loc>
+    <loc>https://git.coach/impressum/</loc>
     <lastmod>2020-03-04T16:17:48+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://git.coach/impressum/</loc>
-    <lastmod>2020-03-04T16:17:48+01:00</lastmod>
+    <loc>https://git.coach/datenschutz/</loc>
+    <lastmod>2020-03-08T22:21:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://git.coach/</loc>
+    <lastmod>2020-03-03T15:53:27+06:00</lastmod>
   </url>
   
   <url>
@@ -30,6 +35,11 @@
   <url>
     <loc>https://git.coach/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://git.coach/.#datenschutz/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
